@@ -1,13 +1,12 @@
-# Ignore virtual environment
-venv/
-
-# Ignore Python cache files
-__pycache__/
-*.pyc
-
-# Ignore model files if needed
-*.h5
+*.pyd
+*.dll
 *.keras
+*.h5
+*.pb
+*.so
+__pycache__/
+smart_waste_classifier/Lib/
+smart_waste_classifier/venv/
+*.pyc
+DATASET/
 
-# Ignore large data files if any
-data/
