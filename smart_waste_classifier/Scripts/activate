@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\akans\OneDrive\Desktop\Smart Waste Classifier\smart_waste_classifier"
+VIRTUAL_ENV="C:\Smart Waste Classifier\smart_waste_classifier"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
